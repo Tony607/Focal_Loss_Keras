@@ -1,0 +1,10 @@
+# ignore the results of running code 'results/'
+input/*
+*.pyc
+
+*.hdf5
+*.ipynb_checkpoints
+*.p
+*.h5
+*.HDF5
+__pycache__
